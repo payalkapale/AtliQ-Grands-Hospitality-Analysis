@@ -27,3 +27,4 @@ dim_rooms
 fact_aggregated_bookings
 fact_bookings
 Here is the Datamodel that I have worked on and it's a STAR SCHEMA
+-<a href="https://github.com/payalkapale/AtliQ-Grands-Hospitality-Analysis/blob/main/Data%20Model.png"></a>
